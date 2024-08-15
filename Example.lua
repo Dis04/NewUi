@@ -1,4 +1,4 @@
-local uilibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/crownaintanoob/CFA-Hub-UI-lib/main/source.lua"))()
+local uilibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/Dis04/newui/main/CFA%20Hub%20UI"))()
 local windowz = uilibrary:CreateWindow("UI Library", "Game Name", true)
 
 local Page1 = windowz:CreatePage("Page I")
